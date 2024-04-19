@@ -19,7 +19,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-            I am an enthusiastic and motivated third-year undergraduate student pursuing a B.Tech in Computer Science Engineering. My expertise lies in web development, where I have experience building web applications using React and proficiency in HTML, CSS, and JavaScript. I also have practical knowledge in cloud computing, working with AWS and Azure to deploy applications and configure scalable architectures. Additionally, I have a keen interest in machine learning and am familiar with various algorithms and techniques. I am currently seeking internships or part-time positions to enhance my skills and contribute to impactful projects. I am excited to collaborate with professionals and fellow enthusiasts to create something extraordinary together.
+            I am an enthusiastic and motivated final year undergraduate student pursuing a B.Tech in Computer Science Engineering. My expertise lies in web development, where I have experience building web applications using React and proficiency in HTML, CSS, and JavaScript. I also have practical knowledge in cloud computing, working with AWS and Azure to deploy applications and configure scalable architectures. Additionally, I have a keen interest in machine learning and am familiar with various algorithms and techniques. I am currently seeking internships or part-time positions to enhance my skills and contribute to impactful projects. I am excited to collaborate with professionals and fellow enthusiasts to create something extraordinary together.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
